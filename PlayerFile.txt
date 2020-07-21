@@ -1,0 +1,3 @@
+NOTE
+It's a note, it reads "You're trapped! You need to escape!"
+
