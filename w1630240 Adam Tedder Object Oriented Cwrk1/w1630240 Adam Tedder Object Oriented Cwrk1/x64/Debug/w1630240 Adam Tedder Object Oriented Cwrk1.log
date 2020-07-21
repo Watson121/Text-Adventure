@@ -1,0 +1,21 @@
+﻿  Adventure.cpp
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\Adventure.cpp(98,7): warning C4101: 'doorOpen': unreferenced local variable
+  AdventureRoom.cpp
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\AdventureRoom.cpp(97,89): warning C4552: '+': result of expression not used
+  AI.cpp
+  Main.cpp
+  MotionTable.cpp
+  Object.cpp
+  Player.cpp
+  Generating Code...
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\Player.cpp(27): warning C4715: 'Player::RemoveObject': not all control paths return a value
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\Player.cpp(65): warning C4715: 'Player::GetObject': not all control paths return a value
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\Object.cpp(40): warning C4715: 'Object::CodeCheck': not all control paths return a value
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\AI.cpp(36): warning C4715: 'AI::MoneyCheck': not all control paths return a value
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\AdventureRoom.cpp(60): warning C4715: 'AdventureRoom::GetObjectInRoom': not all control paths return a value
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\AdventureRoom.cpp(90): warning C4715: 'AdventureRoom::TakeObjectFromRoom': not all control paths return a value
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\AdventureRoom.cpp(142): warning C4715: 'AdventureRoom::OpenSafe': not all control paths return a value
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\AdventureRoom.cpp(149): warning C4715: 'AdventureRoom::GiveMoney': not all control paths return a value
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\AdventureRoom.cpp(183): warning C4715: 'AdventureRoom::ChangeRoomNumber': not all control paths return a value
+F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\w1630240 Adam Tedder Object Oriented Cwrk1\AdventureRoom.cpp(166): warning C4715: 'AdventureRoom::moveBetweenRooms': not all control paths return a value
+  w1630240 Adam Tedder Object Oriented Cwrk1.vcxproj -> F:\Second Year\w1630240 Adam Tedder Object Oriented Cwrk1\x64\Debug\w1630240 Adam Tedder Object Oriented Cwrk1.exe
